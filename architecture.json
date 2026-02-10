@@ -1,0 +1,77 @@
+{
+  "book_id": "soviet-dissident-mythopoeic-power-corruption",
+  "title": "The Static Tree of Krilov",
+  "tagline": "In a disenchanted world, a dissident writer wages a mythic insurgency, but the state's shadowless glare finds even the most carefully hidden truths.",
+  "target_words": 66880,
+  "actual_words": 66880,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Mythic Insurgency",
+    "The Performance of Conformity",
+    "The Haunting of History",
+    "The Anatomy of Silence"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Colour of Factory Breath",
+      "words": 5573
+    },
+    {
+      "ch": 2,
+      "title": "The Static Tree of Krilov",
+      "words": 5573
+    },
+    {
+      "ch": 3,
+      "title": "A Midnight Call for Lemon Cake",
+      "words": 5573
+    },
+    {
+      "ch": 4,
+      "title": "The Shadowless Glare",
+      "words": 5573
+    },
+    {
+      "ch": 5,
+      "title": "A Shroud Stitched from Ash",
+      "words": 5573
+    },
+    {
+      "ch": 6,
+      "title": "The Map as a Ghost's Skin",
+      "words": 5573
+    },
+    {
+      "ch": 7,
+      "title": "The Tin Heart's Tremor",
+      "words": 5573
+    },
+    {
+      "ch": 8,
+      "title": "Silence in the Zil",
+      "words": 5573
+    },
+    {
+      "ch": 9,
+      "title": "Resin and the Cracked Branch",
+      "words": 5573
+    },
+    {
+      "ch": 10,
+      "title": "Ghost Reporting for Duty",
+      "words": 5573
+    },
+    {
+      "ch": 11,
+      "title": "A City of Brass and Grease",
+      "words": 5573
+    },
+    {
+      "ch": 12,
+      "title": "The Metronome in the Chest",
+      "words": 5573
+    }
+  ]
+}
